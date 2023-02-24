@@ -11,3 +11,8 @@ In the project directory, you can run:
 ## 04 - Accordion ##
 
 npm i react-icons
+
+## 05 - Accordion ##
+
+This component require images. 
+(public/images)
