@@ -16,3 +16,7 @@ npm i react-icons
 
 This component require images. 
 (public/images)
+
+## 09 - ColorGenerator ##
+
+npm install values.js --save
