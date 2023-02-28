@@ -6,23 +6,25 @@ import {RestaurantMenu} from "./components/RestaurantMenu/RestaurantMenu";
 import {ColorGenerator} from "./components/ColorGenerator/ColorGenerator";
 import {ToursList} from "./components/ToursList/ToursList";
 import {BirthdayReminder} from "./components/BirthdayReminder/BirthdayReminder";
+import {Reviews} from "./components/Reviews/Reviews";
 
 function App() {
   return (
       //01
-      <BirthdayReminder/>
+      // <BirthdayReminder/>
       //02
-      //<ToursList/>
+      // <ToursList/>
       //03
+      <Reviews/>
       //04
-      //<Accordion/>
+      // <Accordion/>
       //05
-      //<RestaurantMenu/>
+      // <RestaurantMenu/>
       //06
       //07
       //08
       //09
-      //<ColorGenerator/>
+      // <ColorGenerator/>
       //10
   );
 }
