@@ -12,3 +12,11 @@ export interface DishInterface{
     img: string,
     desc: string
 }
+
+export interface TourInteface {
+    id:    string;
+    name:  string;
+    info:  string;
+    image: string;
+    price: string;
+}
