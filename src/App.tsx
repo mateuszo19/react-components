@@ -15,7 +15,7 @@ function App() {
       //02
       // <ToursList/>
       //03
-      <Reviews/>
+      // <Reviews/>
       //04
       // <Accordion/>
       //05
@@ -24,7 +24,7 @@ function App() {
       //07
       //08
       //09
-      // <ColorGenerator/>
+      <ColorGenerator/>
       //10
   );
 }
